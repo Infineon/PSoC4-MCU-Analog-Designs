@@ -55,10 +55,18 @@ To use the code examples in this repository, please download and install
 ### Comparator
 #### 1. CE95297 - 1.2 Volt Comparator (CSD Comp) using Analog Multiplexer with PSoC 4
 This code example demonstrates how the comparator's input can be multiplexed using the Amux component.
+#### 1. CE95360 - Scanning Comparator using common mode with PSoC 3/4/5LP
+This code example demonstrates operation of the Scanning Comparator (Common Mode) component with the PSoC Creator Software.
 
 ### DAC
 #### 1. CE95351 - CE95327 PSoC 4 Current Digital-to-Analog Converter
 This code example demonstrates basic functionality of PSoC4 IDAC8.
+
+### Debouncer/Filters
+#### 1. CE95298 - Switch Debouncer with PSoC 3, PSoC 4, and PSoC 5LP
+This code example shows how to do switch debouncing in hardware using the PSoC Creator Debouncer component.
+#### 1. CE95319 - Hardware Glitch Filter with PSoC 3/4/5LP
+This code example shows how to do glitch filtering in hardware using the PSoC Creator GlitchFilter component.
 
 ## References
 #### 1. PSoC 4 MCU
