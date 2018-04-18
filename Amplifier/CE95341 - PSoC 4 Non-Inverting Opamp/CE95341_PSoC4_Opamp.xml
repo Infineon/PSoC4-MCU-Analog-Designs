@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="CE95341_PSoC4_Opamp" WorkspaceName="CE95341.cywrk">
+	<Version>1.0</Version>
+	<Keyword>Opamp</Keyword>
+	<Keyword>Pioneer</Keyword>
+	<Keyword Hidden="true">CY8CKIT-041</Keyword>
+	<Keyword Hidden="true">CY8CKIT-042</Keyword>
+	<Keyword Hidden="true">CY8CKIT-042-BLE</Keyword>
+	<Keyword Hidden="true">CY8CKIT-044</Keyword>
+	<Keyword Hidden="true">CY8CKIT-046</Keyword>
+	<Description>This code example shows how to use the Operational Amplifier (Opamp) Component as a non-inverting amplifier.</Description>
+	<DeviceFilter>PSoC 4000</DeviceFilter>
+	<DeviceFilter>PSoC 4200</DeviceFilter>
+	<DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+    <DeviceFilter>PSoC 4100M</DeviceFilter> 
+    <DeviceFilter>PSoC 4200M</DeviceFilter> 	
+    <DeviceFilter>PSoC 4100L</DeviceFilter> 
+    <DeviceFilter>PSoC 4200L</DeviceFilter> 	
+	<Document>CE95341.pdf</Document>
+	<MinToolVersion>4.0.0.432</MinToolVersion>
+</Project>

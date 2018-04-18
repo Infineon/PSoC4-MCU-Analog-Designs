@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Name="PSoC4_ADC_with_Differential_PreAmplifier" WorkspaceName="CE95272.cywrk">
+	<Version>2.00</Version>
+	<Keyword>OPAMP</Keyword>
+	<Keyword>SAR ADC</Keyword>
+	<Keyword Hidden="true">CY8CKIT-042</Keyword>
+	<Keyword Hidden="true">CY8CKIT-042-BLE</Keyword>
+	<Keyword Hidden="true">CY8CKIT-046</Keyword>
+	<Keyword Hidden="true">CY8CKIT-041</Keyword>
+	<Description>This code example demonstrates the use of two op-amps as a differential amplifier, and the use of Sequencing SAR ADC to
+read from either a differential or single-ended input.</Description>
+	<DeviceFilter>PSoC 4200</DeviceFilter>
+	<DeviceFilter>PSoC 4100</DeviceFilter>
+	<DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+        <DeviceFilter>PSoC 4100M</DeviceFilter> 
+        <DeviceFilter>PSoC 4200M</DeviceFilter> 	
+        <DeviceFilter>PSoC 4200L</DeviceFilter> 	
+	<Document>CE95272_PSoC4_ADC_with_Differential_PreAmplifier.pdf</Document>
+	<MinToolVersion>4.2</MinToolVersion>
+</Project>
