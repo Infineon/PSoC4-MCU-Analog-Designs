@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Multiplexed_Comparator" StarterProject="true">
+  <Version>1.0</Version>
+  <Keyword>IDAC_P4</Keyword>
+  <Keyword>Comp_P4</Keyword>
+  <Description>This example project demonstrates how to monitor multiple input signals using multiplexed analog comparator without any CPU intervention.</Description>
+  <ShortDescription>Shows how to monitor multiple inputs using multiplexed comparator without CPU intervention. This example requires UDBs. </ShortDescription>
+  <DeviceFilter>PSoC 4200</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200M</DeviceFilter>
+  <DeviceFilter>PSoC 4200L</DeviceFilter>
+  <Document>MuxedComparator.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

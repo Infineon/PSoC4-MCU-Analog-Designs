@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="Analog_Voltage_Comparator" WorkspaceName="CE195293.cywrk">
+  <Version>1.20</Version>
+  <Keyword>Comp_P4</Keyword>
+  <Keyword>Comparator</Keyword>
+  <Keyword>calibration</Keyword>
+  <Keyword>AMux</Keyword>
+  <Keyword>Multiplexer</Keyword>
+  <Keyword>Analog Mux</Keyword>
+  <Keyword Hidden="true">CY8CKIT-042</Keyword>
+  <Keyword Hidden="true">CY8CKIT-042-BLE</Keyword>
+  <Keyword Hidden="true">CY8CKIT-042-BLE-A</Keyword>
+  <Keyword Hidden="true">CY8CKIT-044</Keyword>
+  <Keyword Hidden="true">CY8CKIT-046</Keyword>
+  <Description>This code example demonstrates the PSoC 4 Comparator Component in the Inverting polarity and calibrating feature.</Description>
+  <DeviceFilter>PSoC 4200</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200M</DeviceFilter>
+  <DeviceFilter>PSoC 4200L</DeviceFilter>
+  <Document>CE195293_Analog_Voltage_Comparator_PSoC4.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>

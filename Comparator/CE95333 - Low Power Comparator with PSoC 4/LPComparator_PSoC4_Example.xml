@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Name="LPComparator_PSoC4_Example">
+  <Version>1.10</Version>
+  <Keyword>LPComp_P4</Keyword>
+  <Description>This is example project demonstrates the PSoC 4 LP Comparator.</Description>
+  <DeviceFilter>PSoC 4100</DeviceFilter>
+  <DeviceFilter>PSoC 4200</DeviceFilter>
+  <DeviceFilter>PSoC 4100 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4200 BLE</DeviceFilter>
+  <DeviceFilter>PSoC 4100M</DeviceFilter>
+  <DeviceFilter>PSoC 4200M</DeviceFilter>
+  <DeviceFilter>PSoC 4200L</DeviceFilter>
+  <DeviceFilter>PSoC 4000S</DeviceFilter>
+  <DeviceFilter>PSoC 4100S</DeviceFilter>
+  <DeviceFilter>PSoC Analog Coprocessor</DeviceFilter>
+  <Document>LPComparator_PSoC4_Example.pdf</Document>
+  <MinToolVersion>4.1</MinToolVersion> 
+</Project>
