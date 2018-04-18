@@ -52,11 +52,25 @@ To use the code examples in this repository, please download and install
 
 ## Code Example List
 
+### ADC
+#### 1. CE95272 - PSoC 4 SAR ADC and Differential Amplifier
+This code example shows the usage of DMA with ADC and VDAC components. The ADC is configured in default single ended mode. The ADC EOC signal is connected to DRQ input of DMA. On each rising edge of EOC signal, ADC output is transferred to VDAC input register. VDAC converts this digital value to analog signal which can be measured using a multimeter.
+#### 2. CE95275 - Sequencing SAR ADC and Die temperature sensor with PSoC 4
+This project demonstrates two channel measurements by the PSoC 4 sequencing SAR ADC, transferring results to the LCD and PWM using an ISR.
+#### 3. CE95340 - Amplifier with Dynamic Gain Switching with PSoC 4
+This code example demonstrates how to multiplex three different channels with ADC using Analog Mux and send results to HyperTerminal (PC) using UART. The ADC input and gain can be changed on the fly by pressing a switch.
+
 ### Comparator
 #### 1. CE95297 - 1.2 Volt Comparator (CSD Comp) using Analog Multiplexer with PSoC 4
 This code example demonstrates how the comparator's input can be multiplexed using the Amux component.
-#### 1. CE95360 - Scanning Comparator using common mode with PSoC 3/4/5LP
+#### 2. CE95360 - Scanning Comparator using common mode with PSoC 3/4/5LP
 This code example demonstrates operation of the Scanning Comparator (Common Mode) component with the PSoC Creator Software.
+#### 3. CE95293 - Analog Voltage Comparator with PSoC 4
+This code example demonstrates the PSoC 4 Comparator in Non-Inverting mode.
+#### 4. CE95338 - Multiplexed Analog Comparator with PSoC 4
+This code example demonstrates how to monitor multiple input signals using multiplexed analog comparator without any CPU intervention.
+#### 5. CE95297 - 1.2 Volt Comparator (CSD Comp) using Analog Multiplexer with PSoC 4
+This code example demonstrates how the comparator's input can be multiplexed using the Amux component.
 
 ### DAC
 #### 1. CE95351 - CE95327 PSoC 4 Current Digital-to-Analog Converter
@@ -65,8 +79,14 @@ This code example demonstrates basic functionality of PSoC4 IDAC8.
 ### Debouncer/Filters
 #### 1. CE95298 - Switch Debouncer with PSoC 3, PSoC 4, and PSoC 5LP
 This code example shows how to do switch debouncing in hardware using the PSoC Creator Debouncer component.
-#### 1. CE95319 - Hardware Glitch Filter with PSoC 3/4/5LP
+#### 2. CE95319 - Hardware Glitch Filter with PSoC 3/4/5LP
 This code example shows how to do glitch filtering in hardware using the PSoC Creator GlitchFilter component.
+
+### Amplifier
+#### 1. CE95341 PSoC® 4 Non-Inverting Opamp
+This code example demonstrates the use of an opamp as a non-inverting operational amplifier
+#### 2. CE95340 - Amplifier with Dynamic Gain Switching with PSoC 4
+This code example demonstrates how to multiplex three different channels with ADC using Analog Mux and send results to HyperTerminal (PC) using UART. The ADC input and gain can be changed on the fly by pressing a switch.
 
 ## References
 #### 1. PSoC 4 MCU
